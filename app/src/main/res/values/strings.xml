@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendInfo</string>
+    <string name="chooser">Info</string>
+    <string name="send">SEND</string>
+    <string name="title_activity_receive_message">Receive Message Activity</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
